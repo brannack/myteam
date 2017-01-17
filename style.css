@@ -1,0 +1,20 @@
+body {
+  margin-top: 10px;
+}
+img {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+table, th, td {
+    border: 1px solid black;
+      font-family: "Lato";
+}
+th {
+  color: red;
+}
+h1 {
+  font-family: "Lato";
+  color: darkblue;
+}
