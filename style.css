@@ -9,7 +9,7 @@ img {
 }
 table, th, td {
     border: 1px solid black;
-      font-family: "Lato";
+    font-family: "Lato";
 }
 th {
   color: red;
@@ -17,5 +17,7 @@ th {
 h1, h2 {
   font-family: "Lato";
   color: darkblue;
+}
+h1 {
   text-align: center;
 }
