@@ -14,7 +14,8 @@ table, th, td {
 th {
   color: red;
 }
-h1 {
+h1, h2 {
   font-family: "Lato";
   color: darkblue;
+  text-align: center;
 }
